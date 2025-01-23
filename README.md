@@ -23,7 +23,3 @@ __Usage__
 - Clean and transform the data using the Jupyter Notebook scripts.
 - Load the cleaned data into Power BI to visualize and analyze player performance.
 - Use the dashboards to select the best 12 players for each position based on their performance metrics.
-
-  __Contact__
-For any questions or feedback, please contact Prince Kumar (Email:- dataaprince7@gmail.com).
-
